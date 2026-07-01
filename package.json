@@ -1,0 +1,6 @@
+{
+  "name": "wenopti-api",
+  "version": "1.0.0",
+  "description": "Shared demo API for Optimizely demo sites",
+  "private": true
+}
