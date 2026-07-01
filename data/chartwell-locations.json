@@ -1,75 +1,1154 @@
 {
   "ontario": [
-    { "id": 1, "name": "Chartwell Harwood", "city": "Ajax", "address": "240 Old Harwood Avenue, Ajax, ON L1T 0N2", "phone": "289-608-8364", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 2, "name": "Chartwell Hollandview Trail", "city": "Aurora", "address": "200 John West Way, Aurora, ON L4G 0E4", "phone": "289-648-4099", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 3, "name": "Chartwell Park Place", "city": "Aurora", "address": "15055 Yonge Street, Aurora, ON L4G 6T4", "phone": "289-648-4113", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 4, "name": "Chartwell Allandale Station", "city": "Barrie", "address": "357 Yonge Street, Barrie, ON L4N 4K3", "phone": "249-888-9781", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 5, "name": "Chartwell Whispering Pines", "city": "Barrie", "address": "140 Letitia Street, Barrie, ON L4N 1P5", "phone": "705-881-9885", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 6, "name": "Chartwell Bayview", "city": "Belleville", "address": "435 Dundas Street West, Belleville, ON K8P 1B6", "phone": "613-689-9985", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 7, "name": "Chartwell Bowmanville Creek", "city": "Bowmanville", "address": "105 Queen Street, Bowmanville, ON L1C 0T3", "phone": "289-223-4936", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 8, "name": "Chartwell Tranquility Place", "city": "Brantford", "address": "436 Powerline Road, Brantford, ON N3T 5L8", "phone": "226-227-9884", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 9, "name": "Chartwell Rosedale", "city": "Brockville", "address": "1813 County Road 2 East, RR 1, Brockville, ON K6V 5T1", "phone": "613-499-9983", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 10, "name": "Chartwell Wedgewood", "city": "Brockville", "address": "15 Market Street East, Brockville, ON K6V 0A6", "phone": "613-499-9636", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 11, "name": "Chartwell Lakeshore", "city": "Burlington", "address": "5314 Lakeshore Road, Burlington, ON L7L 6L8", "phone": "289-635-3173", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 12, "name": "Chartwell Martha's Landing", "city": "Burlington", "address": "2109 Lakeshore Road, Burlington, ON L7R 4Z4", "phone": "289-635-3193", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 13, "name": "Chartwell Queen's Square", "city": "Cambridge", "address": "10 Melville Street North, Cambridge, ON N1S 1H5", "phone": "226-533-9709", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 14, "name": "Chartwell Balmoral", "city": "Collingwood", "address": "8 Harbour Street West, Collingwood, ON L9Y 5R5", "phone": "705-532-9606", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 15, "name": "Chartwell Georgian Traditions", "city": "Collingwood", "address": "57 Trott Boulevard, Collingwood, ON L9Y 0A3", "phone": "705-532-9979", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 16, "name": "Chartwell Chateau Cornwall", "city": "Cornwall", "address": "41 Amelia Street, Cornwall, ON K6H 7E5", "phone": "613-937-7276", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 17, "name": "Chartwell McConnell", "city": "Cornwall", "address": "801 4th Street East, Cornwall, ON K6H 7M8", "phone": "613-937-7278", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 18, "name": "Chartwell Georgian", "city": "Dundas", "address": "255 Governors Road, Dundas, ON L9H 3K4", "phone": "289-858-2974", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 19, "name": "Chartwell Wynfield", "city": "Oshawa", "address": "431 Woodmount Drive, Oshawa, ON L1K 0P7", "phone": "289-634-7776", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 20, "name": "Chartwell Pickering City Centre", "city": "Pickering", "address": "1801 Valley Farm Road, Pickering, ON L1V 0A5", "phone": "289-631-1944", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 21, "name": "Chartwell Colonial", "city": "Whitby", "address": "101 Manning Road, Whitby, ON L1N 9M2", "phone": "289-638-3531", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 22, "name": "Chartwell Scarlett Heights", "city": "Etobicoke", "address": "4005 Eglinton Avenue West, Etobicoke, ON M9A 5H3", "phone": "647-846-7007", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 23, "name": "Chartwell Royal on Gordon", "city": "Guelph", "address": "1691 Gordon Street, Guelph, ON N1L 1E1", "phone": "226-706-8824", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Townhouse"] },
-    { "id": 24, "name": "Chartwell Wellington Park", "city": "Guelph", "address": "181 Janefield Avenue, Guelph, ON N1G 1V2", "phone": "226-706-8822", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 25, "name": "Chartwell Deerview Crossing", "city": "Hamilton", "address": "460 Rymal Road West, Hamilton, ON L9B 0B2", "phone": "289-309-7437", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 26, "name": "Chartwell Empress Kanata", "city": "Kanata", "address": "170 McGibbon Drive, Kanata, ON K2L 4H5", "phone": "613-663-2965", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 27, "name": "Chartwell Conservatory Pond", "city": "Kingston", "address": "1499 Stoneridge Drive, Kingston, ON K7M 9H9", "phone": "613-817-9875", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 28, "name": "Chartwell Bankside", "city": "Kitchener", "address": "71 Bankside Drive, Kitchener, ON N2N 3L1", "phone": "226-336-8941", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 29, "name": "Chartwell Westmount", "city": "Kitchener", "address": "190 David Bergey Drive, Kitchener, ON N2E 0E7", "phone": "226-336-8945", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 30, "name": "Chartwell Oak Park LaSalle", "city": "LaSalle", "address": "3955 Thirteenth Street, LaSalle, ON N9H 2S7", "phone": "226-526-9693", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 31, "name": "Chartwell Meadowbrook", "city": "Lively", "address": "18 Jacobson Drive, Lively, ON P3Y 1P7", "phone": "705-836-9999", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments", "Townhouse"] },
-    { "id": 32, "name": "Chartwell Riverside", "city": "London", "address": "201 Riverside Drive, London, ON N6H 1E5", "phone": "226-667-8062", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Townhouse"] },
-    { "id": 33, "name": "Chartwell Rouge Valley", "city": "Markham", "address": "5958 16th Avenue, Markham, ON L3P 8N1", "phone": "289-378-6654", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 34, "name": "Chartwell Tiffin", "city": "Midland", "address": "105 Pillsbury Drive, Midland, ON L4R 0E7", "phone": "705-540-9423", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 35, "name": "Chartwell Regency", "city": "Mississauga", "address": "29 Mississauga Road North, Mississauga, ON L5H 2H7", "phone": "289-643-1996", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 36, "name": "Chartwell Robert Speck", "city": "Mississauga", "address": "100 Robert Speck Parkway, Mississauga, ON L4Z 0A1", "phone": "289-633-2154", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 37, "name": "Chartwell Hartford", "city": "Morrisburg", "address": "3 Fifth Street West, Morrisburg, ON K0C 1X0", "phone": "613-937-7274", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 38, "name": "Chartwell Stillwater Creek", "city": "Nepean", "address": "2018 Robertson Road, Nepean, ON K2H 1C6", "phone": "613-366-6173", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 39, "name": "Chartwell Barton", "city": "Newmarket", "address": "17290 Leslie Street, Newmarket, ON L3Y 3E1", "phone": "289-366-3689", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 40, "name": "Chartwell Gibson", "city": "North York", "address": "1955 Steeles Avenue East, North York, ON M2H 3P1", "phone": "647-547-1811", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 41, "name": "Chartwell Oakville", "city": "Oakville", "address": "180 Oak Park Boulevard, Oakville, ON L6H 0A6", "phone": "289-644-2960", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 42, "name": "Chartwell Waterford", "city": "Oakville", "address": "2160 Baronwood Drive, Oakville, ON L6M 0Y1", "phone": "289-644-2951", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Long Term Care"] },
-    { "id": 43, "name": "Chartwell Palermo Village", "city": "Oakville", "address": "3136 Dundas Street West, Oakville, ON L6M 0S5", "phone": "289-644-0112", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 44, "name": "Chartwell Montgomery Village", "city": "Orangeville", "address": "155 Riddell Road, Orangeville, ON L9W 6R4", "phone": "226-706-8528", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 45, "name": "Chartwell Lord Lansdowne", "city": "Ottawa", "address": "920 Bank Street, Ottawa, ON K1S 1M8", "phone": "613-688-1885", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 46, "name": "Chartwell New Edinburgh Square", "city": "Ottawa", "address": "420 MacKay Street, Ottawa, ON K1M 2C4", "phone": "343-882-4759", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments"] },
-    { "id": 47, "name": "Chartwell Rockcliffe", "city": "Ottawa", "address": "100 Island Lodge Road, Ottawa, ON K1N 0A2", "phone": "343-883-9902", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 48, "name": "Chartwell Pinewood", "city": "Pembroke", "address": "1022 Pembroke Street East, Pembroke, ON K8A 8A7", "phone": "613-775-5007", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 49, "name": "Chartwell Jackson Creek", "city": "Peterborough", "address": "481 Reid Street, Peterborough, ON K9H 7R9", "phone": "705-748-1929", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 50, "name": "Chartwell Quail Creek", "city": "Renfrew", "address": "450 Albert Street, Renfrew, ON K7V 4K4", "phone": "613-775-0133", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 51, "name": "Chartwell Oak Ridges", "city": "Richmond Hill", "address": "12925 Yonge Street, Richmond Hill, ON L4E 0T7", "phone": "289-573-9736", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 52, "name": "Chartwell Collegiate Heights", "city": "Sault Ste. Marie", "address": "95 Fauquier Avenue, Sault Ste. Marie, ON P6B 0A2", "phone": "705-256-4679", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 53, "name": "Chartwell Anne Hathaway", "city": "Stratford", "address": "480 Downie Street, Stratford, ON N5A 7Y5", "phone": "226-779-0969", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 54, "name": "Chartwell Southwind", "city": "Sudbury", "address": "1645 Paris Street, Sudbury, ON P3E 0A5", "phone": "705-885-9644", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 55, "name": "Chartwell Westmount on William", "city": "Sudbury", "address": "599 William Avenue, Sudbury, ON P3A 5W3", "phone": "705-885-9642", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 56, "name": "Chartwell St. Clair Beach", "city": "Tecumseh", "address": "13500 Riverside Drive East, Tecumseh, ON N8N 0C3", "phone": "226-526-8329", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 57, "name": "Chartwell Thornhill", "city": "Thornhill", "address": "784 Centre Street, Thornhill, ON L4J 9G7", "phone": "289-588-0974", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 58, "name": "Chartwell Glacier Ridge", "city": "Thunder Bay", "address": "1261 Jasper Drive, Thunder Bay, ON P7B 6Z4", "phone": "807-473-0527", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 59, "name": "Chartwell Hilldale", "city": "Thunder Bay", "address": "309 Hilldale Road, Thunder Bay, ON P7G 0A2", "phone": "807-700-5774", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 60, "name": "Chartwell Isabella", "city": "Thunder Bay", "address": "1350 Isabella Street East, Thunder Bay, ON P7E 0A5", "phone": "807-333-0382", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 61, "name": "Chartwell Thunder Bay", "city": "Thunder Bay", "address": "770 Arundel Street, Thunder Bay, ON P7A 8C8", "phone": "807-473-0529", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Townhouse"] },
-    { "id": 62, "name": "Chartwell Lansing", "city": "Toronto", "address": "10 Senlac Road, Toronto, ON M2N 6P8", "phone": "647-846-7003", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 63, "name": "Chartwell Avondale", "city": "Toronto", "address": "1238 Queen Street East, Toronto, ON M4L 1C3", "phone": "647-547-1813", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 64, "name": "Chartwell Grenadier", "city": "Toronto", "address": "2100 Bloor Street West, Toronto, ON M6S 1M7", "phone": "647-429-7982", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 65, "name": "The Sumach by Chartwell", "city": "Toronto", "address": "146 Sumach Street, Toronto, ON M5A 0P7", "phone": "416-644-8912", "careTypes": ["Independent Living", "Assisted Living", "Memory Care", "Seniors Apartments", "Townhouse"] },
-    { "id": 66, "name": "Chartwell Valley Vista", "city": "Vaughan", "address": "600 Valley Vista Drive, Vaughan, ON L6A 4H2", "phone": "289-963-9974", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 67, "name": "Chartwell Orchards", "city": "Vineland", "address": "3421 Frederick Avenue, Vineland, ON L0R 2C0", "phone": "289-438-2543", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 68, "name": "Chartwell Clair Hills", "city": "Waterloo", "address": "530 Columbia Street West, Waterloo, ON N2T 0B1", "phone": "226-336-6899", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 69, "name": "Chartwell Terrace on the Square", "city": "Waterloo", "address": "100 Caroline Street South, Waterloo, ON N2L 1X5", "phone": "226-336-8943", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 70, "name": "Chartwell Oak Park Terrace", "city": "Windsor", "address": "1750 N Service Rd, Windsor, ON N8W 1Y3", "phone": "226-526-9691", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] },
-    { "id": 71, "name": "Chartwell Oxford Gardens", "city": "Woodstock", "address": "423 Devonshire Avenue, Woodstock, ON N4S 0B2", "phone": "226-242-0899", "careTypes": ["Independent Living", "Assisted Living", "Memory Care"] }
+    {
+      "id": 1,
+      "name": "Chartwell Harwood",
+      "city": "Ajax",
+      "address": "240 Old Harwood Avenue, Ajax, ON L1T 0N2",
+      "phone": "289-608-8364",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "harwood",
+      "imageUrl": "https://dam.chartwell.com/m/7f0475f13daae218/Large_Generic_Hero_webp-harwood-exterior-1.webp",
+      "tagline": "Enjoy an active lifestyle with the comfort of supportive services and peace of mind, all within spacious suites located in the heart of Ajax.",
+      "description": "Chartwell Harwood is an independent living retirement residence set amid elegantly landscaped grounds in a peaceful Ajax neighbourhood. We’re conveniently nearby a variety of local amenities—many of them walkable—including popular retailers, grocery and liquor stores, pharmacies, restaurants, and a movie theatre. Beautiful beaches and waterfront parks on Lake Ontario are a quick 10-minute drive south. Our residence offers the freedom of independent living with the reassurance of flexible, personalized support and services that provide peace of mind as your needs evolve. Whether you’re an active older adult or exploring options for a loved one, you’ll appreciate our warm atmosphere, engaging lifestyle, and trusted care."
+    },
+    {
+      "id": 2,
+      "name": "Chartwell Hollandview Trail",
+      "city": "Aurora",
+      "address": "200 John West Way, Aurora, ON L4G 0E4",
+      "phone": "289-648-4099",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "hollandview-trail",
+      "imageUrl": "https://dam.chartwell.com/m/52d9a6826cd75f43/Large_Generic_Hero_webp-hollandviewtrail_exterior_1_straighten.webp",
+      "tagline": "Experience vibrant retirement living with personalized support in Aurora’s scenic Bayview-Wellington neighbourhood.",
+      "description": "Located in Aurora’s sought-after Bayview-Wellington neighbourhood, Chartwell Hollandview Trail is an established independent living and assisted living retirement residence on John West Way that blends elegant surroundings with genuine connection. Set against a backdrop of scenic gardens and neighbouring arboretum views, we not only enjoy pretty natural surroundings, but convenient access to a variety of walkable amenities, including a seniors’ centre, grocery stores, banks, pharmacies, restaurants, retail shopping, and the cinema. There are also several lush parks nearby if you want to take your dog for a walk or simply enjoy some fresh air."
+    },
+    {
+      "id": 3,
+      "name": "Chartwell Park Place",
+      "city": "Aurora",
+      "address": "15055 Yonge Street, Aurora, ON L4G 6T4",
+      "phone": "289-648-4113",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "park-place",
+      "imageUrl": "https://dam.chartwell.com/m/70a86ad815909f10/Large_Generic_Hero_webp-parkplace_exterior_1.webp",
+      "tagline": "Discover a close-knit, supportive residence offering personalized care and vibrant living—steps from downtown Aurora’s local charm",
+      "description": "Chartwell Park Place is a warm, family-oriented retirement residence designed for retirees searching for that just-right combination of a comfortable, vibrant community atmosphere along with excellent amenities, engaging social experiences, and optional care support. Known for our long-standing team and personalized approach, we offer a level of familiarity and consistency that fosters trust and peace of mind."
+    },
+    {
+      "id": 4,
+      "name": "Chartwell Allandale Station",
+      "city": "Barrie",
+      "address": "357 Yonge Street, Barrie, ON L4N 4K3",
+      "phone": "249-888-9781",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "allandale-station",
+      "imageUrl": "https://dam.chartwell.com/m/194cc9987afe0eb0/Large_Generic_Hero_webp-AllandaleStation_exterior_aerial_16.webp",
+      "tagline": "Enjoy an active and flexible lifestyle in a residence that blends comfort, care, and convenience in the heart of historic Barrie.",
+      "description": "Chartwell Allandale Station is a vibrant, modern retirement residence in the heart of South Barrie, proudly built in 2019. From the moment you walk through our doors, you’ll feel the warmth of a welcoming atmosphere and the confidence of knowing you’re in a place designed to support you now and into the future. We offer a wide array of lifestyle experiences and personalized support services to suit your unique needs, including both independent living and assisted living. With a continuum of care and 24-hour on-site nursing, you can comfortably age in place while enjoying an active, fulfilling lifestyle."
+    },
+    {
+      "id": 5,
+      "name": "Chartwell Whispering Pines",
+      "city": "Barrie",
+      "address": "140 Letitia Street, Barrie, ON L4N 1P5",
+      "phone": "705-881-9885",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "whispering-pines",
+      "imageUrl": "https://dam.chartwell.com/m/111d985b056fa022/Large_Generic_Hero_webp-whispering-pines-exterior-09.webp",
+      "tagline": "Lead an empowering lifestyle in a close-knit, trusted community surrounded by nature in Barrie.",
+      "description": "Chartwell Whispering Pines is a well-established independent living retirement residence with a trusted 20-year reputation for service and warmth in the picturesque city of Barrie. Tucked among mature trees in a peaceful, residential neighbourhood, our residence offers a serene, natural setting that fosters both relaxation and connection. We invite you to experience our vibrant atmosphere, where you'll find bright and spacious studio and one-bedroom suites—many located on the main floor with private patios overlooking our beautifully landscaped courtyard."
+    },
+    {
+      "id": 6,
+      "name": "Chartwell Bayview",
+      "city": "Belleville",
+      "address": "435 Dundas Street West, Belleville, ON K8P 1B6",
+      "phone": "613-689-9985",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "bayview",
+      "imageUrl": "https://dam.chartwell.com/m/74513225a9e81f54/Large_Generic_Hero_webp-Bayview-exterior-02.webp",
+      "tagline": "Experience Belleville by-the-bay retirement living designed just for you.",
+      "description": "Located in the picturesque city of Belleville, Chartwell Bayview is an intimate, traditional retirement residence offering independent living services that allow you to comfortably age in place. With spectacular, serene views of the Bay of Quinte, our home is known for its inviting atmosphere, strong local reputation, and superb amenities—including delicious dining with à la carte menus and a playful on-site ice cream parlour that brings joy to every generation. From the moment you arrive, you'll feel the warm welcome of a close-knit, relaxed community where residents and staff share meaningful connections."
+    },
+    {
+      "id": 7,
+      "name": "Chartwell Bowmanville Creek",
+      "city": "Bowmanville",
+      "address": "105 Queen Street, Bowmanville, ON L1C 0T3",
+      "phone": "289-223-4936",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "bowmanville-creek",
+      "imageUrl": "https://dam.chartwell.com/m/5b5e87ceabc4750f/Large_Generic_Hero_webp-BowmanvilleCreek_exterior_drone_22.webp",
+      "tagline": "Enjoy your retirement years to the fullest in historic downtown Bowmanville.",
+      "description": "Nestled beside serene greenspace in the heart of historic downtown Bowmanville, Chartwell Bowmanville Creek is a modern retirement residence offering independent living and assisted living lifestyles that empower you to comfortably age in place. Known for our high standard of care, personalized support, and vibrant atmosphere, we take pride in offering a worry-free lifestyle with quality services and superb on-site amenities. We are also pet friendly!"
+    },
+    {
+      "id": 8,
+      "name": "Chartwell Tranquility Place",
+      "city": "Brantford",
+      "address": "436 Powerline Road, Brantford, ON N3T 5L8",
+      "phone": "226-227-9884",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "tranquility-place",
+      "imageUrl": "https://dam.chartwell.com/asset/1cfd9f11-135b-46d0-9817-5c2b59cda2f4/Large_Generic_Hero_webp/tranquility-exterior-02.webp",
+      "tagline": "Experience the independent retirement you desire, with the personalized, empowering support you deserve.",
+      "description": "Chartwell Tranquility Place is a well-established retirement residence in North Brantford offering both independent living suites and seniors’ apartments designed to support a vibrant, flexible lifestyle. Set within a close-knit community and surrounded by natural beauty, our residence is known for its strong local reputation, serene atmosphere, and a warm, dedicated team who are committed to making each day healthier, happier, and more fulfilling—for you or your loved one."
+    },
+    {
+      "id": 9,
+      "name": "Chartwell Rosedale",
+      "city": "Brockville",
+      "address": "1813 County Road 2 East, RR 1, Brockville, ON K6V 5T1",
+      "phone": "613-499-9983",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "rosedale",
+      "imageUrl": "https://dam.chartwell.com/asset/b059ade4-0665-46f0-8fb4-7912410ba297/Large_Generic_Hero_webp/chartwell-rosedale-facade-05.webp",
+      "tagline": "Enjoy cozy retirement living with beautiful river views and a strong reputation in the Brockville community,",
+      "description": "Chartwell Rosedale is a charming, bungalow-style independent living retirement residence nestled along the St. Lawrence River in Brockville. Known for our peaceful, scenic setting and thoughtfully designed single-storey layout, our residence offers easy access to all amenities—from our welcoming dining room to our lush, landscaped courtyard. We’re well-known in our local community for delivering that “at-home” feeling, thanks to caring staff and cozy suites."
+    },
+    {
+      "id": 10,
+      "name": "Chartwell Wedgewood",
+      "city": "Brockville",
+      "address": "15 Market Street East, Brockville, ON K6V 0A6",
+      "phone": "613-499-9636",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "wedgewood",
+      "imageUrl": "https://dam.chartwell.com/m/33f8be48a7e66035/Large_Generic_Hero_webp-wedgewood-exterior-05.webp",
+      "tagline": "Experience nautical luxury and scenic waterfront views in historic downtown Brockville.",
+      "description": "Chartwell Wedgewood Retirement Residence is an elegant independent living and assisted living community in historic, picturesque Brockville, nestled along the northern banks of the St. Lawrence River. A community steeped in old world charm and recognized by the World Health Organization as one of the safest communities in Canada, Brockville is defined by stately mansions and elaborate fountains, all preserved as a reminder of the town’s rich history."
+    },
+    {
+      "id": 11,
+      "name": "Chartwell Lakeshore",
+      "city": "Burlington",
+      "address": "5314 Lakeshore Road, Burlington, ON L7L 6L8",
+      "phone": "289-635-3173",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "lakeshore",
+      "imageUrl": "https://dam.chartwell.com/m/39bb03b7b40cd2e2/Large_Generic_Hero_webp-lakeshore-exterior-01.webp",
+      "tagline": "Embrace vibrant senior living, personalized care that evolves with your needs, and breathtaking lakeside views.",
+      "description": "Nestled along the sparkling shores of Lake Ontario, Chartwell Lakeshore is a newly renovated retirement residence in Burlington designed to offer a vibrant and welcoming lifestyle. From the moment you arrive, you’ll feel at home in an environment where personalized support, engaging experiences, and exceptional service come together. We offer a full continuum of care—including independent living, assisted living, and memory care—all thoughtfully delivered under one roof. Here, you'll find the flexibility, peace of mind, and trusted support you or your loved one deserves, guided by a long-tenured team known for their compassion and professionalism."
+    },
+    {
+      "id": 12,
+      "name": "Chartwell Martha's Landing",
+      "city": "Burlington",
+      "address": "2109 Lakeshore Road, Burlington, ON L7R 4Z4",
+      "phone": "289-635-3193",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "marthas-landing",
+      "imageUrl": "https://dam.chartwell.com/asset/f0b7074d-559b-4ca6-8ae4-c5bd18b8ae47/Large_Generic_Hero_webp/marthas-landing-exterior-04.webp",
+      "tagline": "Enjoy an intimate, boutique retirement lifestyle in downtown Burlington steps from shops and parks.",
+      "description": "Chartwell Martha’s Landing is a cozy, boutique retirement residence in vibrant downtown Burlington, close to shops, Spencer Smith Park and the shores of Lake Ontario. Our newly renovated suites and family friendly setting create a warm and inviting atmosphere where you can thrive in your retirement years. Our residents choose us for our intimate scale, supportive care, and closeness to family, making this a home where connection thrives and aging in place feels natural."
+    },
+    {
+      "id": 13,
+      "name": "Chartwell Queen's Square",
+      "city": "Cambridge",
+      "address": "10 Melville Street North, Cambridge, ON N1S 1H5",
+      "phone": "226-533-9709",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "queens-square",
+      "imageUrl": "https://dam.chartwell.com/m/714b543d173f0d0a/Large_Generic_Hero_webp-queens-square-exterior-03.webp",
+      "tagline": "Enjoy a social, supportive lifestyle in a cozy, connected community in beautiful Galt.",
+      "description": "Nestled in the heart of downtown Cambridge’s historic Galt neighbourhood, Chartwell Queen’s Square is a warm, boutique-style retirement residence known for its welcoming atmosphere, tenured staff, and trusted local reputation. Surrounded by mature trees, Victorian architecture, and charming fountains, our intimate, easy-to-navigate home offers the comforting feeling of familiarity and belonging—where residents and staff truly know one another and everyone is treated like family."
+    },
+    {
+      "id": 14,
+      "name": "Chartwell Balmoral",
+      "city": "Collingwood",
+      "address": "8 Harbour Street West, Collingwood, ON L9Y 5R5",
+      "phone": "705-532-9606",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "balmoral",
+      "imageUrl": "https://dam.chartwell.com/m/1327ad56f02fe49/Large_Generic_Hero_webp-BalmoralPlace_Exterior_1-crop.webp",
+      "tagline": "Experience an active and supportive retirement lifestyle in scenic Collingwood.",
+      "description": "Nestled in the picturesque town of Collingwood, Chartwell Balmoral is a well-established retirement residence offering more than just a place to live—it’s a place to thrive. With a full continuum of care that includes independent living, assisted living, and spacious seniors’ apartments, our home is designed to support your evolving needs on one seamless campus."
+    },
+    {
+      "id": 15,
+      "name": "Chartwell Georgian Traditions",
+      "city": "Collingwood",
+      "address": "57 Trott Boulevard, Collingwood, ON L9Y 0A3",
+      "phone": "705-532-9979",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "georgian-traditions",
+      "imageUrl": "https://dam.chartwell.com/m/42f925ec45f9fdfb/Large_Generic_Hero_webp-GeorgianTraditions_exterior-4.webp",
+      "tagline": "Welcome to traditional, boutique-style retirement living with personalized support options in scenic Collingwood.",
+      "description": "Chartwell Georgian Traditions is a boutique-style retirement residence nestled in scenic Collingwood, offering both independent living and Memory Living lifestyles. Our seniors’ community is the ideal place to enjoy your retirement years to the fullest, thanks to worry-free services and long-standing staff who have earned us a trusted reputation in the local area. Whether you're enjoying an active lifestyle or seeking added peace of mind through personalized care, our thoughtfully designed retirement community helps you or your loved one feel truly at home."
+    },
+    {
+      "id": 16,
+      "name": "Chartwell Chateau Cornwall",
+      "city": "Cornwall",
+      "address": "41 Amelia Street, Cornwall, ON K6H 7E5",
+      "phone": "613-937-7276",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "chateau-cornwall",
+      "imageUrl": "https://dam.chartwell.com/asset/5f238697-3864-4a27-ba1f-b9743b083891/Large_Generic_Hero_webp/chateau-cornwall-signage-exterior-01-croped.webp",
+      "tagline": "Lead the active retirement you deserve in a residence that combines small-town charm with the convenience of downtown Cornwall.",
+      "description": "Chartwell Chateau Cornwall is an established, reputable independent living retirement residence in the heart of downtown Cornwall. We invite you to explore our welcoming atmosphere and bright amenities, many of which have floor-to-ceiling windows that emphasize natural light and gorgeous views. Our retirement home is known for lively activities and a variety of personalized services designed to empower you to lead your best retirement years."
+    },
+    {
+      "id": 17,
+      "name": "Chartwell McConnell",
+      "city": "Cornwall",
+      "address": "801 4th Street East, Cornwall, ON K6H 7M8",
+      "phone": "613-937-7278",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "mcconnell",
+      "imageUrl": "https://dam.chartwell.com/asset/d8dd388a-2049-4328-b617-7009afcf1a85/Large_Generic_Hero_webp/mcconnell-exterior-drone-1-crop.webp",
+      "tagline": "A vibrant and bilingual community in a convenient central location, offering a supportive and personalized experience.",
+      "description": "Welcome to Chartwell McConnell—a warm, bilingual retirement residence nestled in the heart of Cornwall’s desirable east end. Surrounded by the largest private green spaces in central Cornwall and just steps from shops, pharmacies, and Cornwall Community Hospital, our residence offers unmatched convenience and tranquility. With a choice of independent living suites in the main building and seniors’ apartments next door, you can enjoy a lifestyle tailored to your unique needs, with flexible services that adapt as your preferences evolve. It’s the freedom to focus on what matters most."
+    },
+    {
+      "id": 18,
+      "name": "Chartwell Georgian",
+      "city": "Dundas",
+      "address": "255 Governors Road, Dundas, ON L9H 3K4",
+      "phone": "289-858-2974",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "georgian",
+      "imageUrl": "https://dam.chartwell.com/m/60595c2623a5c85b/Large_Generic_Hero_webp-Georgian_Exterior_01.webp",
+      "tagline": "Experience beautiful green space and a warm, family-like atmosphere in downtown Dundas, steps from the conservation area.",
+      "description": "Chartwell Georgian is nestled in the heart of Dundas, a charming and historic community embraced by the natural beauty of the Niagara Escarpment. Our Georgian-inspired architecture and inviting atmosphere reflect the warmth you’ll find inside, where residents enjoy a peaceful lifestyle in a truly residential setting. We’re located near local parks, schools, and everyday conveniences, making it easy to stay connected with family—especially for those who’ve chosen our residence to remain close to their children and grandchildren."
+    },
+    {
+      "id": 19,
+      "name": "Chartwell Wynfield",
+      "city": "Oshawa",
+      "address": "431 Woodmount Drive, Oshawa, ON L1K 0P7",
+      "phone": "289-634-7776",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "wynfield",
+      "imageUrl": "https://dam.chartwell.com/m/2c71c4b35af386fb/Large_Generic_Hero_webp-Wynfield_exterior_drone_04.webp",
+      "tagline": "Experience a warm, connected lifestyle with flexible support in a trusted North Oshawa residence.",
+      "description": "Chartwell Wynfield is an established retirement residence offering a continuum of care thanks to multiple lifestyle options in desirable North Oshawa. With a strong local reputation for personalized care, exceptional service, and long-tenured staff, our retirement community provides both independent living and assisted living lifestyles, along with spacious studio, one-bedroom, one-bedroom-plus-den, and two-bedroom suites."
+    },
+    {
+      "id": 20,
+      "name": "Chartwell Pickering City Centre",
+      "city": "Pickering",
+      "address": "1801 Valley Farm Road, Pickering, ON L1V 0A5",
+      "phone": "289-631-1944",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "pickering-city-centre",
+      "imageUrl": "https://dam.chartwell.com/m/2e0592829c9451c9/Large_Generic_Hero_webp-pickering-model-suite-livingroom-07.webp",
+      "tagline": "Your lifestyle, your community—experience vibrant retirement living in the heart of Pickering.",
+      "description": "Chartwell Pickering City Centre is an established retirement residence offering a range of independent living options for individuals and couples seeking an active, fulfilling lifestyle. Our residence is known for its walkable downtown location, spacious suites, and warm, social energy—where residents feel supported, included, and connected from day one. Many residents choose to live here thanks to our proximity to family and familiarity within the Pickering community."
+    },
+    {
+      "id": 21,
+      "name": "Chartwell Colonial",
+      "city": "Whitby",
+      "address": "101 Manning Road, Whitby, ON L1N 9M2",
+      "phone": "289-638-3531",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "colonial",
+      "imageUrl": "https://dam.chartwell.com/m/1bb93e9d7e874162/Large_Generic_Hero_webp-colonial-exterior-11.webp",
+      "tagline": "Experience the independent retirement you desire with the personalized, flexible services you need in beautiful Whitby.",
+      "description": "Chartwell Colonial is an intimate, well-established retirement residence in Whitby—part of a mature residential area—offering independent living options for an active, fulfilling retirement. Featuring lush outdoor green spaces, you’ll find our cozy retirement home is well known for providing exceptional personalized care services and a homey atmosphere where our diverse community of residents and staff knows one another well."
+    },
+    {
+      "id": 22,
+      "name": "Chartwell Scarlett Heights",
+      "city": "Etobicoke",
+      "address": "4005 Eglinton Avenue West, Etobicoke, ON M9A 5H3",
+      "phone": "647-846-7007",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "scarlett-heights",
+      "imageUrl": "https://dam.chartwell.com/m/2d175b62df59b451/Large_Generic_Hero_webp-ScarlettHeights_Exterior_06.webp",
+      "tagline": "Enjoy convenience, flexibility, and peace of mind for a fulfilling retirement in Etobicoke",
+      "description": "Nestled along Eglington Avenue West in the heart of North Etobicoke, Chartwell Scarlett Heights is an inviting senior living community in a park-like setting offering a safe, social and supportive lifestyle. We have multiple levels of care and support under one roof, including independent living suites and a dedicated Memory Living Neighbourhood, allowing you to comfortably age in place if your unique needs and preferences change over time."
+    },
+    {
+      "id": 23,
+      "name": "Chartwell Royal on Gordon",
+      "city": "Guelph",
+      "address": "1691 Gordon Street, Guelph, ON N1L 1E1",
+      "phone": "226-706-8824",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Townhouse"
+      ],
+      "slug": "royal-on-gordon",
+      "imageUrl": "https://dam.chartwell.com/m/507bb062e9aa66e0/Large_Generic_Hero_webp-royal-on-gordon-exterior-01.webp",
+      "tagline": "Explore peaceful, all-inclusive retirement living featuring private townhomes in a lush setting that feels like home.",
+      "description": "Chartwell Royal on Gordon Retirement Residence in Guelph’s south end offers an independent and active lifestyle for seniors who want to belong to a vibrant community. Here, you’ll enjoy the peace of mind that comes with an all-inclusive lifestyle, where meals, housekeeping, wellness services, and engaging experiences are all part of daily life. You can benefit from a variety of personalized services delivered by friendly and knowledgeable staff, including care support if you need some additional daily assistance to live in complete comfort and satisfaction. We also uniquely offer private seniors’ townhomes on campus, ideal for those seeking the combination of independence and peace of mind."
+    },
+    {
+      "id": 24,
+      "name": "Chartwell Wellington Park",
+      "city": "Guelph",
+      "address": "181 Janefield Avenue, Guelph, ON N1G 1V2",
+      "phone": "226-706-8822",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "wellington-park",
+      "imageUrl": "https://dam.chartwell.com/asset/36ddecf6-ede7-4c8b-8ac5-df71a7527df7/Large_Generic_Hero_webp/chartwell-wellington-park-exterior-drone-09.webp",
+      "tagline": "Enjoy a lifestyle centered on connection and convenience in a reputable retirement residence in Guelph.",
+      "description": "Chartwell Wellington Park is an established retirement community with a strong local reputation in Guelph. We’re known for our warm, social atmosphere where residents and families feel instantly at home. Our peaceful residential neighbourhood in the heart of Priory Park is highly sought after, as we’re within walking distance of a variety of retailers, restaurants, cafés, pharmacies, and parks. We’re also located just steps from Stone Road Mall, offering easy access to shopping and services."
+    },
+    {
+      "id": 25,
+      "name": "Chartwell Deerview Crossing",
+      "city": "Hamilton",
+      "address": "460 Rymal Road West, Hamilton, ON L9B 0B2",
+      "phone": "289-309-7437",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "deerview-crossing",
+      "imageUrl": "https://dam.chartwell.com/m/7cdd17d40aeb9b5c/Large_Generic_Hero_webp-Deerview_Exterior_01.webp",
+      "tagline": "Experience a warm, connected retirement lifestyle in a charming Hamilton Mountain West setting.",
+      "description": "Chartwell Deerview Crossing is an intimate and caring seniors’ community nestled in one of Hamilton’s most desirable west-mountain neighbourhoods. Our thoughtfully designed residence offers a flexible continuum of care, with the choice of independent living services or our dedicated Memory Living neighbourhood—so your lifestyle and support needs are always at the forefront."
+    },
+    {
+      "id": 26,
+      "name": "Chartwell Empress Kanata",
+      "city": "Kanata",
+      "address": "170 McGibbon Drive, Kanata, ON K2L 4H5",
+      "phone": "613-663-2965",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "empress-kanata",
+      "imageUrl": "https://dam.chartwell.com/m/375a157bf8bbd29c/Large_Generic_Hero_webp-empress-kanata-exterior-04.webp",
+      "tagline": "Embrace vibrant retirement living in an intimate, modern setting within our trusted community, surrounded by nature in Katimivik, Kanata.",
+      "description": "Step through the doors of Chartwell Empress Kanata and you’ll be welcomed by warmth, friendship, and a true sense of belonging. Nestled in the peaceful, tree-lined Katimavik neighbourhood, our cozy and inviting retirement residence offers independent living and a dedicated Memory Living neighbourhood—designed to feel like home, and tailored to help you live each day with comfort, confidence, and connection."
+    },
+    {
+      "id": 27,
+      "name": "Chartwell Conservatory Pond",
+      "city": "Kingston",
+      "address": "1499 Stoneridge Drive, Kingston, ON K7M 9H9",
+      "phone": "613-817-9875",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "conservatory-pond",
+      "imageUrl": "https://dam.chartwell.com/m/b1320f1d5bfa1ea/Large_Generic_Hero_webp-conservatory-pond-exterior-drone-02.webp",
+      "tagline": "Enjoy serene pond views, a vibrant and social lifestyle, and personalized support that feels like family.",
+      "description": "Nestled in a beautiful west-end Kingston neighbourhood near Collins Bay, Chartwell Conservatory Pond is more than just a retirement residence—it’s a place where serene pond views, natural surroundings, and meaningful connections come together to create an enriching lifestyle. Surrounded by a quiet residential setting with convenient local amenities nearby, this residence offers a peaceful retreat, right in the heart of the city."
+    },
+    {
+      "id": 28,
+      "name": "Chartwell Bankside",
+      "city": "Kitchener",
+      "address": "71 Bankside Drive, Kitchener, ON N2N 3L1",
+      "phone": "226-336-8941",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "bankside",
+      "imageUrl": "https://dam.chartwell.com/m/6ba78b999b4a0141/Large_Generic_Hero_webp-bankside-exterior-01.webp",
+      "tagline": "Choose a quiet retreat with friendly faces, flexible support, and a view you’ll love.",
+      "description": "Chartwell Bankside is a peaceful, newly renovated retirement community featuring independent living with optional care services in our main residence, and unique seniors’ apartments on campus—each designed to support your lifestyle preferences. Nestled in a quiet, well-kept neighbourhood in Kitchener, our lush location is a walker’s paradise, as we are within close distance to many local amenities—including Highland Hills shopping plaza—and back onto a serene conservation area that brings nature right to your doorstep. Our residents enjoy lovely leafy views that change with the seasons and often admire the trees, wildlife, and our koi pond from our large back deck. It’s a tranquil retreat with all the comforts of city living nearby."
+    },
+    {
+      "id": 29,
+      "name": "Chartwell Westmount",
+      "city": "Kitchener",
+      "address": "190 David Bergey Drive, Kitchener, ON N2E 0E7",
+      "phone": "226-336-8945",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "westmount",
+      "imageUrl": "https://dam.chartwell.com/m/3687db03f1a11014/Large_Generic_Hero_webp-westmount-exterior-01.webp",
+      "tagline": "Experience peaceful, nature-connected senior living with personalized support in Kitchener’s desirable Laurentian West neighbourhood.",
+      "description": "Chartwell Westmount Retirement Residence is tucked away on beautifully manicured grounds alongside the protected Laurentian Wetlands nature sanctuary. A true continuum of care community, our lush suburban residence in Kitchener’s growing Laurentian West neighbourhood empowers you to enjoy serene surroundings while staying connected to nearby shops, restaurants, grocery stores, banks, and places of worship—all just minutes away."
+    },
+    {
+      "id": 30,
+      "name": "Chartwell Oak Park LaSalle",
+      "city": "LaSalle",
+      "address": "3955 Thirteenth Street, LaSalle, ON N9H 2S7",
+      "phone": "226-526-9693",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "oak-park-lasalle",
+      "imageUrl": "https://dam.chartwell.com/m/62c151c1b0420261/Large_Generic_Hero_webp-OakParkLasalle-Exterior-01.webp",
+      "tagline": "Experience the active retirement you deserve in a residence where nature, comfort, and convenience meet in LaSalle.",
+      "description": "Welcome to Chartwell Oak Park LaSalle, a retirement residence where life feels comfortable, connected, and worry-free. Nestled in a quiet cul-de-sac in residential LaSalle, our independent living community is designed for ease and peace of mind. With a unique, ranch-style layout, you can enjoy every corner of our home—indoors and out—without the barriers of stairs or elevators."
+    },
+    {
+      "id": 31,
+      "name": "Chartwell Meadowbrook",
+      "city": "Lively",
+      "address": "18 Jacobson Drive, Lively, ON P3Y 1P7",
+      "phone": "705-836-9999",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments",
+        "Townhouse"
+      ],
+      "slug": "meadowbrook",
+      "imageUrl": "https://dam.chartwell.com/asset/c5df9bce-aec9-4fbb-8440-ad57e36d813b/Large_Generic_Hero_webp/chartwell-meadowbrook-exteior-entrance-04.webp",
+      "tagline": "Choose resort-style senior living enriched by vibrant activity and wellness experiences in Lively.",
+      "description": "Chartwell Meadowbrook is a resort-style retirement community nestled in tranquil, evergreen surroundings in the highly sought-after destination of Lively, part of the Greater Sudbury region. Our serene location offers the perfect blend of nature and convenience, with nearby local amenities— including banks, restaurants, coffee shops, pharmacies, liquor stores and walking trails—making running errands or meeting up with friends both easy and enjoyable. When you aren’t venturing out of doors, you may find yourself participating in a social event in one of our many on-site amenities or perhaps savouring a healthy gourmet meal in our energetic dining room, defined by soaring ceilings and an open concept feel found throughout our home."
+    },
+    {
+      "id": 32,
+      "name": "Chartwell Riverside",
+      "city": "London",
+      "address": "201 Riverside Drive, London, ON N6H 1E5",
+      "phone": "226-667-8062",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Townhouse"
+      ],
+      "slug": "riverside",
+      "imageUrl": "https://dam.chartwell.com/m/1a410efd8f9f43d7/Large_Generic_Hero_webp-riverside-exterior-05-crop.webp",
+      "tagline": "Experience worry-free retirement living in an intimate setting devoted to your happiness and well-being.",
+      "description": "At Chartwell Riverside in West London, tradition meets vitality in a warm, close-knit community offering independent living suites and unique seniors’ townhomes. With an inviting atmosphere and traditional charm, our residence supports a social and fulfilling lifestyle led by lively residents and long-tenured staff who foster genuine connection and care. We’re proud to offer an all-inclusive lifestyle with personalized support, trusted service, and a strong reputation in the local community."
+    },
+    {
+      "id": 33,
+      "name": "Chartwell Rouge Valley",
+      "city": "Markham",
+      "address": "5958 16th Avenue, Markham, ON L3P 8N1",
+      "phone": "289-378-6654",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "rouge-valley",
+      "imageUrl": "https://dam.chartwell.com/m/6e5078049c28cebd/Large_Generic_Hero_webp-RougeValley_Exterior_04_no_flag_new_sky.webp",
+      "tagline": "An atmosphere that will make you feel at home",
+      "description": "If you’re an active and independent senior looking to benefit from a comfortable, worry-free lifestyle, you’ll find Chartwell Rouge Valley is the perfect place to enjoy your retirement years to the fullest. When you walk through our doors, you’ll be struck by our traditional design elements and warm, intimate atmosphere, where residents and staff enjoy the company of one another and form an inclusive, supportive community."
+    },
+    {
+      "id": 34,
+      "name": "Chartwell Tiffin",
+      "city": "Midland",
+      "address": "105 Pillsbury Drive, Midland, ON L4R 0E7",
+      "phone": "705-540-9423",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "tiffin",
+      "imageUrl": "https://dam.chartwell.com/m/5363cf95b2efe19c/Large_Generic_Hero_webp-Tiffin_exterior_drone_23.webp",
+      "tagline": "Experience an elevated lifestyle defined by elegance and personalized care along the tranquil shores of Georgian Bay.",
+      "description": "Chartwell Tiffin is a vibrant, resort-style seniors’ residence located in beautiful Midland, offering Independent living, Assisted living, and Memory Living options—all within one warm and welcoming community. Overlooking the serene waters of Georgian Bay in the heart of Huronia, our retirement residence offers an elegant setting, where natural beauty meets personalized care. Surrounded by breathtaking landscapes, wildlife, lush parklands, and a picturesque shoreline, Chartwell Tiffin offers an everyday escape that feels like a permanent getaway."
+    },
+    {
+      "id": 35,
+      "name": "Chartwell Regency",
+      "city": "Mississauga",
+      "address": "29 Mississauga Road North, Mississauga, ON L5H 2H7",
+      "phone": "289-643-1996",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "regency",
+      "imageUrl": "https://dam.chartwell.com/m/22f42bb29f6f2d3a/Large_Generic_Hero_webp-regency-exterior-aerial-28.webp",
+      "tagline": "Discover Port Credit’s best-kept secret for supportive retirement living.",
+      "description": "Chartwell Regency is an intimate, boutique-style retirement community tucked into a charming Port Credit neighbourhood. Offering an independent lifestyle with optional care support, our retirement residence is celebrated for its warm, welcoming atmosphere—where friendly neighbours and caring staff quickly feel like family."
+    },
+    {
+      "id": 36,
+      "name": "Chartwell Robert Speck",
+      "city": "Mississauga",
+      "address": "100 Robert Speck Parkway, Mississauga, ON L4Z 0A1",
+      "phone": "289-633-2154",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "robert-speck",
+      "imageUrl": "https://dam.chartwell.com/m/350fc2ddd44b68aa/Large_Generic_Hero_webp-RobertSpeck_Exterior_05.webp",
+      "tagline": "Offering an active and supportive retirement lifestyle with gorgeous gardens in the heart of Mississauga.",
+      "description": "Located in a peaceful residential pocket near downtown Mississauga, Chartwell Robert Speck is a warm and welcoming retirement residence that blends grand surroundings with a sense of close-knit intimacy. Nestled among mature trees and beautiful greenspace, our residence is best known for its expansive courtyard gardens and outdoor walking paths—truly a gardener’s paradise with both shared and private planting spaces."
+    },
+    {
+      "id": 37,
+      "name": "Chartwell Hartford",
+      "city": "Morrisburg",
+      "address": "3 Fifth Street West, Morrisburg, ON K0C 1X0",
+      "phone": "613-937-7274",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "hartford",
+      "imageUrl": "https://dam.chartwell.com/m/27271ab14837d524/Large_Generic_Hero_webp-hartford-exterior-03-enhanced.webp",
+      "tagline": "Retire in comfort where small-town charm and riverside tranquility come together—right in the heart of Morrisburg.",
+      "description": "Chartwell Hartford is nestled in the heart of Morrisburg, approximately a half hour west of Cornwall, in a serene and scenic location near the St. Lawrence River. Surrounded by a welcoming, village-like atmosphere, our residence reflects the charm of the local community, where friendly neighbours and long-standing staff foster a true sense of belonging."
+    },
+    {
+      "id": 38,
+      "name": "Chartwell Stillwater Creek",
+      "city": "Nepean",
+      "address": "2018 Robertson Road, Nepean, ON K2H 1C6",
+      "phone": "613-366-6173",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "stillwater-creek",
+      "imageUrl": "https://dam.chartwell.com/m/7dd44a8df1c1a337/Large_Generic_Hero_webp-stillwater-creek-exterior-05-crop.webp",
+      "tagline": "A lively, engaging, and newly renovated retirement residence offering a continuum of care, nestled amid lush green space in the heart of Bells Corners.",
+      "description": "Chartwell Stillwater Creek is a newly renovated retirement residence in Nepean, offering a full continuum of care—including independent living, assisted living, and memory care—all under one roof. Nestled in a peaceful, nature-inspired setting, our home is known for its compassionate, long-standing staff, personalized services, and flexible care that evolves with your needs. It’s a comfortable, connected lifestyle you’ll be proud to call home—from the very first visit."
+    },
+    {
+      "id": 39,
+      "name": "Chartwell Barton",
+      "city": "Newmarket",
+      "address": "17290 Leslie Street, Newmarket, ON L3Y 3E1",
+      "phone": "289-366-3689",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "barton",
+      "imageUrl": "https://dam.chartwell.com/asset/3d09d1d8-4945-4d3a-8e94-6e3a0f5a052c/Large_Generic_Hero_webp/barton-exterior-patio-02-crop.webp",
+      "tagline": "Lead the flexible, worry-free lifestyle you deserve in a warm, welcoming, and trusted Newmarket residence.",
+      "description": "Chartwell Barton is a long-standing retirement residence proudly rooted in the heart of Newmarket, offering seniors a connected lifestyle in a setting that feels both familiar and enriching. With over 20 years in the community, our inviting residence features large, modern suites—including sought-after two-bedroom layouts—and thoughtfully designed common spaces with soaring ceilings. Beyond the bright interiors and beautiful outdoor areas, what truly sets us apart is the authentic sense of community and belonging that defines everyday life here."
+    },
+    {
+      "id": 40,
+      "name": "Chartwell Gibson",
+      "city": "North York",
+      "address": "1955 Steeles Avenue East, North York, ON M2H 3P1",
+      "phone": "647-547-1811",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "gibson",
+      "imageUrl": "https://dam.chartwell.com/m/1e106d88f605149e/Large_Generic_Hero_webp-gibson-exterior-08.webp",
+      "tagline": "The worry-free lifestyle you deserve—backed by personalized support and a truly caring team in the heart of North York.",
+      "description": "Chartwell Gibson is an intimate continuum of care setting designed to support your independence, comfort, and wellness with services tailored to you. Our warm, friendly, and diverse group of residents, staff, and visitors make our residence feel like a true family home—where trusted relationships run deep and you’ll always be greeted by a familiar, friendly face. Many of our long-tenured team members have dedicated years to caring for our residents, and their expertise extends beyond our walls—they even help educate future health care professionals through partnerships with local schools."
+    },
+    {
+      "id": 41,
+      "name": "Chartwell Oakville",
+      "city": "Oakville",
+      "address": "180 Oak Park Boulevard, Oakville, ON L6H 0A6",
+      "phone": "289-644-2960",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "oakville",
+      "imageUrl": "https://dam.chartwell.com/asset/3f140141-bc8a-4d9b-8847-18d92b4d1e5b/Large_Generic_Hero_webp/oakville-exterior-06-fix.webp",
+      "tagline": "Embrace a retirement lifestyle rooted in connection, comfort, and community—so you can enjoy your best years yet.",
+      "description": "Chartwell Oakville is a well-established retirement community with a strong local reputation and dedicated, long-standing staff who truly get to know you. Our independent living lifestyle is tailored to your unique needs and preferences, offering the freedom to choose the support you want—on your terms, at your pace. With the flexibility to add or remove services as your needs evolve, our caring team ensures you can confidently age in place while enjoying the comfort, security, and personal attention you deserve."
+    },
+    {
+      "id": 42,
+      "name": "Chartwell Waterford",
+      "city": "Oakville",
+      "address": "2160 Baronwood Drive, Oakville, ON L6M 0Y1",
+      "phone": "289-644-2951",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Long Term Care"
+      ],
+      "slug": "waterford",
+      "imageUrl": "https://dam.chartwell.com/m/6d03a5b1e66cccd1/Large_Generic_Hero_webp-exterior_17.webp",
+      "tagline": "Experience Peace of Mind in a Desirable, Well-Connected North Oakville Community.",
+      "description": "Chartwell Waterford is a modern retirement residence offering independent living and Memory Living services in the sought-after and growing communities of Palermo, Westoak Trails, and Bronte Creek. Nestled in a welcoming residential area, our vibrant seniors’ residence is ideally located near Westoak Trails Plaza, with easy access to a variety of local shops, restaurants, medical clinics, and Oakville Trafalgar Memorial Hospital."
+    },
+    {
+      "id": 43,
+      "name": "Chartwell Palermo Village",
+      "city": "Oakville",
+      "address": "3136 Dundas Street West, Oakville, ON L6M 0S5",
+      "phone": "289-644-0112",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "palermo-village",
+      "imageUrl": "https://dam.chartwell.com/asset/302eb612-3a90-4231-8278-cfb8ae065a63/Large_Generic_Hero_webp/palermo-exterior-1-rev.webp",
+      "tagline": "Live in a vibrant North Oakville retirement community where everything you need is nearby, and every day feels full of possibility.",
+      "description": "Welcome to Chartwell Palermo Village, an independent living retirement residence nestled in the heart of north Oakville's thriving Palermo neighbourhood. Designed for active seniors who value their independence, our pet-friendly residence offers a collection of well-appointed suites, attentive staff support, and everything you need to live with ease and confidence."
+    },
+    {
+      "id": 44,
+      "name": "Chartwell Montgomery Village",
+      "city": "Orangeville",
+      "address": "155 Riddell Road, Orangeville, ON L9W 6R4",
+      "phone": "226-706-8528",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "montgomery-village",
+      "imageUrl": "https://dam.chartwell.com/m/3f52c1caa6521c54/Large_Generic_Hero_webp-montgomery-vIllage-exterior-04-edited-croped.webp",
+      "tagline": "Discover stylish apartments, lively social experiences and stunning farmland views at Orangeville’s premier retirement residence.",
+      "description": "Chartwell Montgomery Village is a premier retirement community offering seniors’ apartments designed for active older adults in Orangeville who seek a vibrant lifestyle, supportive services, and the freedom to live on their own terms. Our independent living residence—reflecting the charm of Victorian architecture found in downtown Orangeville—offers more than just beautiful design. You’ll find state-of-the-art amenities like a therapeutic indoor pool, a putting green, and a welcoming bar and lounge, all thoughtfully designed to support your health, happiness, and sense of community. And yes—we’re pet-friendly, so your four-legged companions are welcome too!"
+    },
+    {
+      "id": 45,
+      "name": "Chartwell Lord Lansdowne",
+      "city": "Ottawa",
+      "address": "920 Bank Street, Ottawa, ON K1S 1M8",
+      "phone": "613-688-1885",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "lord-lansdowne",
+      "imageUrl": "https://dam.chartwell.com/m/32fad95f719814c9/Large_Generic_Hero_webp-lord-lansdowne-exterior-drone-02-crop.webp",
+      "tagline": "Lead a fulfilling lifestyle in the heart of The Glebe, with exceptional on-site amenities and outdoor spaces with stunning cityscape views.",
+      "description": "Chartwell Lord Lansdowne is ideally located in The Glebe, one of Ottawa’s most cherished and walkable neighbourhoods—where beautiful natural surroundings like the Rideau Canal and Central Park meet local boutiques, cafés, and a strong sense of community. We proudly offer independent living and assisted living lifestyles, along with a host of convenient services—including delicious dining, engaging leisure programs, organized outings, and personalized support—all thoughtfully designed to help you enjoy the retirement years you’ve always imagined."
+    },
+    {
+      "id": 46,
+      "name": "Chartwell New Edinburgh Square",
+      "city": "Ottawa",
+      "address": "420 MacKay Street, Ottawa, ON K1M 2C4",
+      "phone": "343-882-4759",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments"
+      ],
+      "slug": "new-edinburgh-square",
+      "imageUrl": "https://dam.chartwell.com/m/54ee71608c3b03f5/Large_Generic_Hero_webp-new-edinburgh-square-exterior-drone-07.webp",
+      "tagline": "Experience vibrant, contemporary senior living at our urban-chic residence in the iconic New Edinburgh neighbourhood.",
+      "description": "When you choose to call Chartwell New Edinburgh Square home, you’re stepping into a lifestyle that blends the comfort of urban retirement living with the energy and charm of one of Ottawa’s most desirable neighbourhoods. Our vibrant, village-style setting is just steps from beloved local favourites like the Clocktower Pub, Scone Witch café, and Books on Beechwood. Here, you have the freedom to lead the retirement years you want, with the added ease of dining options, weekly housekeeping, 24-hour concierge service, and thoughtfully curated leisure experiences."
+    },
+    {
+      "id": 47,
+      "name": "Chartwell Rockcliffe",
+      "city": "Ottawa",
+      "address": "100 Island Lodge Road, Ottawa, ON K1N 0A2",
+      "phone": "343-883-9902",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "rockcliffe",
+      "imageUrl": "https://dam.chartwell.com/m/055413ee05949ebe/Large_Generic_Hero_webp-Rockcliffe-Exterior-4-CMYK.webp",
+      "tagline": "Experience vibrant retirement living in the heart of Ottawa, with panoramic views, beautifully landscaped gardens, modern amenities, and exceptional hospitality that blend luxury with peace of mind.",
+      "description": "As you drive across the bridge to exclusive Porter Island, your breath may catch as Chartwell Rockcliffe comes into view, gracefully encircled by the flowing Rideau River. Set in the highly coveted New Edinburgh neighbourhood—where tranquility meets prestige—Chartwell Rockcliffe offers both independent and assisted living in a breathtaking, upscale residence. The lifestyle at Chartwell Rockcliffe is truly majestic and a retirement aspiration for those who wish to continue to enjoy life to the fullest. Here’s why:"
+    },
+    {
+      "id": 48,
+      "name": "Chartwell Pinewood",
+      "city": "Pembroke",
+      "address": "1022 Pembroke Street East, Pembroke, ON K8A 8A7",
+      "phone": "613-775-5007",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "pinewood",
+      "imageUrl": "https://dam.chartwell.com/m/7e42ba0c95bf23ba/Large_Generic_Hero_webp-Pinewood-exterior-1.webp",
+      "tagline": "Discover a lifestyle tailored to you within a cozy, welcoming, pet-friendly retirement community in Pembroke.",
+      "description": "Chartwell Pinewood is an intimate, established senior living community with the feeling of a family home, located in east Pembroke beside SmartCentres Pembroke Mall. Our retirement community is renowned for its strong local reputation and home-like atmosphere. With an accessible, bungalow-style layout and friendly, long-standing staff, our residence offers a sense of comfort and belonging from the moment you walk through the door. Here, residents and staff often feel more like extended family than neighbours."
+    },
+    {
+      "id": 49,
+      "name": "Chartwell Jackson Creek",
+      "city": "Peterborough",
+      "address": "481 Reid Street, Peterborough, ON K9H 7R9",
+      "phone": "705-748-1929",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "jackson-creek",
+      "imageUrl": "https://dam.chartwell.com/m/4ec871777ce030ca/Large_Generic_Hero_webp-Jackson-Creek-Exterior-02-enhanced.webp",
+      "tagline": "Experience a vibrant and supportive retirement living surrounded by nature, just minutes from downtown Peterborough.",
+      "description": "Chartwell Jackson Creek is a warm and welcoming retirement residence nestled beside a peaceful creek in a quiet, tree-lined neighbourhood in Peterborough. Surrounded by beautiful greenspace and just minutes from urban conveniences, our home offers the best of both worlds: serene natural surroundings and easy access to all the amenities you need. Inside, you’ll find bright and spacious studio, one-bedroom, and one-bedroom-plus-den suites with kitchenettes—ideal for privacy, comfort, and independence."
+    },
+    {
+      "id": 50,
+      "name": "Chartwell Quail Creek",
+      "city": "Renfrew",
+      "address": "450 Albert Street, Renfrew, ON K7V 4K4",
+      "phone": "613-775-0133",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "quail-creek",
+      "imageUrl": "https://dam.chartwell.com/m/7406fc5dabb03781/Large_Generic_Hero_webp-quail-creek-exterior-02.webp",
+      "tagline": "Experience warm, supportive retirement living in a charming, small-town setting.",
+      "description": "Chartwell Quail Creek is a well-established retirement residence in Renfrew with a strong local reputation for genuine warmth, personalized support, and the kind of neighbourly spirit that defines small-town living. Nestled among mature trees and conveniently located across from Renfrew Victoria Hospital and a long term care residence, our home is ideal for seniors seeking peace of mind—especially those with a spouse living nearby in LTC."
+    },
+    {
+      "id": 51,
+      "name": "Chartwell Oak Ridges",
+      "city": "Richmond Hill",
+      "address": "12925 Yonge Street, Richmond Hill, ON L4E 0T7",
+      "phone": "289-573-9736",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "oak-ridges",
+      "imageUrl": "https://dam.chartwell.com/m/656ab72541fe3c07/Large_Generic_Hero_webp-oakridges_exterior_1.webp",
+      "tagline": "Enjoy flexible, worry-free retirement living with personalized support in a scenic, architecturally inspired residence in Oak Ridges.",
+      "description": "Pine forests, creeks, and kettle lakes; libraries, community centres, and parkland; restaurants, cafés, and grocery stores—where can you find both the natural splendor of a protected moraine and all the conveniences of a bustling town? At Chartwell Oak Ridges, you’ll enjoy flexible retirement living in a scenic, well-appointed setting that’s thoughtfully designed for comfort, connection, and peace of mind. Our residence offers a full continuum of care—including independent living, assisted living, and memory care—so you or a loved one can comfortably age in place in the community you love."
+    },
+    {
+      "id": 52,
+      "name": "Chartwell Collegiate Heights",
+      "city": "Sault Ste. Marie",
+      "address": "95 Fauquier Avenue, Sault Ste. Marie, ON P6B 0A2",
+      "phone": "705-256-4679",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "collegiate-heights",
+      "imageUrl": "https://dam.chartwell.com/m/155bb35a4a1a7498/Large_Generic_Hero_webp-CollegiateHeights_exterior_drone_09_REV.webp",
+      "tagline": "Experience a welcoming, pet-friendly community with engaging programs and breathtaking views of historic Sault Ste. Marie.",
+      "description": "Chartwell Collegiate Heights is a quiet and peaceful retirement residence perched on a scenic hilltop in the heart of Sault Ste. Marie. Once home to the city’s well-loved Collegiate high school, our residence blends history with serenity, offering panoramic views of the waterfront and lush greenspace. We're proud of our reputation for providing a secure, affordable, and close-knit community where residents and staff feel like extended family. In addition to our natural surroundings, we offer convenient access to nearby walkable amenities like grocery stores, banks, pharmacies, restaurants, shopping, and the cinema. Our residents love our neighbourhood for these reasons, plus our proximity to family."
+    },
+    {
+      "id": 53,
+      "name": "Chartwell Anne Hathaway",
+      "city": "Stratford",
+      "address": "480 Downie Street, Stratford, ON N5A 7Y5",
+      "phone": "226-779-0969",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "anne-hathaway",
+      "imageUrl": "https://dam.chartwell.com/m/186947e4908a4c4e/Large_Generic_Hero_webp-anne-hathaway-exterior-08.webp",
+      "tagline": "Experience the active, culturally rich retirement you deserve in the Stratford community you know and love.",
+      "description": "Chartwell Anne Hathaway is an established independent living retirement residence nestled in beautiful Stratford. Blending timeless charm with a distinctive architectural design, our intimate home is where heritage meets small-town living. Step inside our striking entranceway and be welcomed by long-standing, caring staff who make every day feel personal. Our inviting amenities reflect our unique character—like our charming dining room with a walk-out patio overlooking a walking path that winds around the residence. Deeply rooted in the Stratford community, many of our residents are from the area or have close family nearby, creating a warm, familiar atmosphere where meaningful connections flourish."
+    },
+    {
+      "id": 54,
+      "name": "Chartwell Southwind",
+      "city": "Sudbury",
+      "address": "1645 Paris Street, Sudbury, ON P3E 0A5",
+      "phone": "705-885-9644",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "southwind",
+      "imageUrl": "https://dam.chartwell.com/m/1e7d18ee870d7a16/Large_Generic_Hero_webp-southwind-exterior-drone-rev-21.webp",
+      "tagline": "Retire in Sudbury’s desirable south end with the vibrant lifestyle you deserve.",
+      "description": "Chartwell Southwind Retirement Residence is a hidden gem tucked away in one of Sudbury’s most scenic and peaceful neighbourhoods. Located just off the main road and surrounded by mature forest near picturesque Lake Nepahwin, our community offers independent seniors the perfect blend of nature, tranquility, and convenience. Here, you’re close to everything—shopping, restaurants, healthcare services, beaches, and boardwalks—yet tucked away in a serene, private setting that feels worlds apart. With engaging lifestyle options and supportive services tailored to your needs, Chartwell Southwind is where peace of mind and purposeful living come together."
+    },
+    {
+      "id": 55,
+      "name": "Chartwell Westmount on William",
+      "city": "Sudbury",
+      "address": "599 William Avenue, Sudbury, ON P3A 5W3",
+      "phone": "705-885-9642",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "westmount-on-william",
+      "imageUrl": "https://dam.chartwell.com/m/6f0004caca0f37a2/Large_Generic_Hero_webp-WestmountOnWilliams_front-entrance.webp",
+      "tagline": "Welcome to Sudbury’s nature-inspired retirement community, designed for your comfort, connection, and peace of mind.",
+      "description": "Nestled in Greater Sudbury’s sought-after New Sudbury neighbourhood, Chartwell Westmount on William is an intimate, established residence set in a tranquil, park-like landscape surrounded by charming homes and frequent sightings of local wildlife. Our retirement home offers not only scenic beauty, but also a strong local reputation, an accessible bungalow-style layout, and a warm, close-knit atmosphere where residents and staff feel like family."
+    },
+    {
+      "id": 56,
+      "name": "Chartwell St. Clair Beach",
+      "city": "Tecumseh",
+      "address": "13500 Riverside Drive East, Tecumseh, ON N8N 0C3",
+      "phone": "226-526-8329",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "st-clair-beach",
+      "imageUrl": "https://dam.chartwell.com/m/e224a98e74fe45d/Large_Generic_Hero_webp-st-clair-beach-exterior-01.webp",
+      "tagline": "Where lakeside luxury meets personalized service in a retirement lifestyle defined by beauty, comfort, and connection.",
+      "description": "Chartwell St. Clair Beach is an upscale, lakefront retirement community welcoming active and independent seniors in Tecumseh. Surrounded by quaint homes and lush green spaces, our retirement home is nearby many convenient amenities like grocery stores, restaurants, coffee shops, pharmacies, places of worship, and Beach Grove Golf and Country Club. Such a desirable location means you can benefit from all the shopping and services you need to lead the active and independent lifestyle you desire, yet still feel like you're living in a serene, tucked-away setting."
+    },
+    {
+      "id": 57,
+      "name": "Chartwell Thornhill",
+      "city": "Thornhill",
+      "address": "784 Centre Street, Thornhill, ON L4J 9G7",
+      "phone": "289-588-0974",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "thornhill",
+      "imageUrl": "https://dam.chartwell.com/asset/6ea5b1f1-c4cd-4db7-a7a7-242c31153873/Large_Generic_Hero_webp/chartwell-thornhill-exterior-driveway-01.webp",
+      "tagline": "A warm, heimish retirement community in the heart of Thornhill’s Jewish neighbourhood.",
+      "description": "Chartwell Thornhill Retirement Residence provides seniors a warm and welcoming atmosphere in the heart of a thriving Jewish community. Offering independent living to our predominantly Jewish residents, our seniors’ home honours and celebrates Jewish cultural and religious values, including weekly rabbi lectures and services, as well as Shabbat services, holiday observances, and traditional celebrations that bring people together. Residents can also enjoy personalized care, gourmet dining options, and engaging cultural programs that celebrate Jewish traditions. Beyond that, we offer a vibrant lifestyle with diverse recreational activities, family-inclusive events, and a strong sense of connection—all within walking distance of local shops, restaurants, and synagogues."
+    },
+    {
+      "id": 58,
+      "name": "Chartwell Glacier Ridge",
+      "city": "Thunder Bay",
+      "address": "1261 Jasper Drive, Thunder Bay, ON P7B 6Z4",
+      "phone": "807-473-0527",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "glacier-ridge",
+      "imageUrl": "https://dam.chartwell.com/m/144523996095bd95/Large_Generic_Hero_webp-GlacierRidge_exterior_drone_31_REV.webp",
+      "tagline": "A friendly, welcoming place to call home in Thunder Bay",
+      "description": "Located in the heart of Thunder Bay, Chartwell Glacier Ridge is a warm, independent living retirement residence that offers the best of both worlds: a peaceful, nature-connected setting paired with exceptional walkability to shops, restaurants, healthcare facilities, and other local conveniences. Here, you’ll enjoy the unique balance of quiet comfort and urban accessibility, all within a friendly and supportive community."
+    },
+    {
+      "id": 59,
+      "name": "Chartwell Hilldale",
+      "city": "Thunder Bay",
+      "address": "309 Hilldale Road, Thunder Bay, ON P7G 0A2",
+      "phone": "807-700-5774",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "hilldale",
+      "imageUrl": "https://dam.chartwell.com/m/51b1eb5222930c91/Large_Generic_Hero_webp-Hilldale_exterior_1_Straightened.webp",
+      "tagline": "Experience a welcoming, scenic retirement lifestyle rooted in Finnish culture and connection in Thunder Bay.",
+      "description": "Chartwell Hilldale is an independent living retirement residence located in Thunder Bay’s Port Arthur district. Nestled in a peaceful country setting surrounded by birch trees, our residence boasts stunning views of the Sleeping Giant and Mount Baldy—an inspiring natural backdrop to everyday life. Though serene and tucked away, we’re also conveniently close to city essentials. Minutes away you'll find big box stores, shopping centres, cozy cafés, and many places of worship, blending rural charm with urban convenience."
+    },
+    {
+      "id": 60,
+      "name": "Chartwell Isabella",
+      "city": "Thunder Bay",
+      "address": "1350 Isabella Street East, Thunder Bay, ON P7E 0A5",
+      "phone": "807-333-0382",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "isabella",
+      "imageUrl": "https://dam.chartwell.com/m/2c644c1d5d38162b/Large_Generic_Hero_webp-Isabella-exterior-drone-13_REV.webp",
+      "tagline": "Enjoy the supportive lifestyle you desire, rooted in history, community, and connection in the historic setting of Fort William area in Thunder Bay.",
+      "description": "Chartwell Isabella is an independent living retirement residence located on a quiet, tree-lined street dotted with well-kept century homes in the central Vickers Park neighbourhood. Located on the cherished grounds of a former schoolhouse, our residence reflects the enduring charm and community spirit of historic Fort William. Every outing—whether a stroll to local shops, lunch with friends, or a leisurely walk through the neighbourhood—offers a comforting sense of familiarity and connection to the past."
+    },
+    {
+      "id": 61,
+      "name": "Chartwell Thunder Bay",
+      "city": "Thunder Bay",
+      "address": "770 Arundel Street, Thunder Bay, ON P7A 8C8",
+      "phone": "807-473-0529",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Townhouse"
+      ],
+      "slug": "thunder-bay",
+      "imageUrl": "https://dam.chartwell.com/m/182d6f0a6e75e962/Large_Generic_Hero_webp-ThunderBay_exterior_drone_20.webp",
+      "tagline": "Experience flexible retirement living surrounded by forest, wildlife, and scenic beauty in Thunder Bay.",
+      "description": "Chartwell Thunder Bay is a grand retirement residence located in the desirable Port Arthur area, offering an independent living lifestyle and seniors’ townhomes for those who appreciate the peacefulness and inspiration of nature. Nestled beside a protected conservation area and enveloped by pristine Boreal Forest, our retirement community is just steps from the tranquil shores of Boulevard Lake and connected to walking paths that lead to nearby Centennial Park."
+    },
+    {
+      "id": 62,
+      "name": "Chartwell Lansing",
+      "city": "Toronto",
+      "address": "10 Senlac Road, Toronto, ON M2N 6P8",
+      "phone": "647-846-7003",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "lansing",
+      "imageUrl": "https://dam.chartwell.com/m/776e1dffcc32cda0/Large_Generic_Hero_webp-lansing-exterior-01.webp",
+      "tagline": "Experience flexible & supportive senior living in the heart of North York.",
+      "description": "Chartwell Lansing is a warm, close-knit retirement residence tucked into a quiet residential street in the bustling Yonge-Sheppard neighbourhood of Willowdale. Known for our welcoming atmosphere and personalized care, our residence offers the comfort of independent senior living in a setting that feels like home. Here, you’ll enjoy peace of mind with flexible services tailored to your evolving needs—all while being just a block from Yonge Street and steps away from shopping, restaurants, cinemas, pharmacies, banks, healthcare facilities, and places of worship. Enjoy a short walk to the North York Library, attend a concert at the Toronto Centre for the Arts, or visit the farmers’ market at Mel Lastman Square—you’ll always have something to enjoy right outside your door."
+    },
+    {
+      "id": 63,
+      "name": "Chartwell Avondale",
+      "city": "Toronto",
+      "address": "1238 Queen Street East, Toronto, ON M4L 1C3",
+      "phone": "647-547-1813",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "avondale",
+      "imageUrl": "https://dam.chartwell.com/m/6e4db8e31fb411dd/Large_Generic_Hero_webp-Avondale_exterior_08.webp",
+      "tagline": "Live vibrantly and stay connected in the heart of cultural, walkable Leslieville.",
+      "description": "Located in the heart of artsy, eclectic Leslieville in Toronto&rsquo;s east end, Chartwell Avondale has proudly served the community for over 20 years. Our retirement residence is nestled above a retail complex with professional services like a dental clinic, banks, and a beloved local bakery. Just steps outside your door, Queen Street offers easy access to independent shops, diverse restaurants, art galleries, live music venues, and caf&eacute;s, while nearby Ashbridges Bay and Woodbine Beach provide scenic spots for relaxation. From community festivals to colourful street murals, the neighbourhood reflects the area&rsquo;s creative, inclusive spirit and invites exploration at every turn."
+    },
+    {
+      "id": 64,
+      "name": "Chartwell Grenadier",
+      "city": "Toronto",
+      "address": "2100 Bloor Street West, Toronto, ON M6S 1M7",
+      "phone": "647-429-7982",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "grenadier",
+      "imageUrl": "https://dam.chartwell.com/m/4f417188c49f61be/Large_Generic_Hero_webp-Grenadier_Exterior_05.webp",
+      "tagline": "Experience a vibrant and supportive lifestyle in Toronto’s desirable High Park neighbourhood.",
+      "description": "Chartwell Grenadier is a dynamic retirement residence offering the perfect blend of urban energy and natural serenity in Toronto’s sought-after High Park area. Overlooking one of the city's most iconic green spaces, our independent living and assisted living retirement community is ideal for seniors who want to enjoy a safe, enriching lifestyle that reflects their personal interests, values, and independence."
+    },
+    {
+      "id": 65,
+      "name": "The Sumach by Chartwell",
+      "city": "Toronto",
+      "address": "146 Sumach Street, Toronto, ON M5A 0P7",
+      "phone": "416-644-8912",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care",
+        "Seniors Apartments",
+        "Townhouse"
+      ],
+      "slug": "the-sumach-by-chartwell",
+      "imageUrl": "https://dam.chartwell.com/asset/0520d8fd-24c1-4e1f-9965-517975edad7f/Large_Generic_Hero_webp/sumach-exterior-drone-05-cropp.webp",
+      "tagline": "Experience the freedom of condo-style living, the flexibility of à la carte services, and the culture of Toronto’s East End.",
+      "description": "Stylish. Flexible. Unapologetically urban—The Sumach by Chartwell is a modern 12-storey residence offering rental apartments that feel more like boutique condos—with full kitchens, in-suite laundry, and access to elevated amenities. Located in one of Toronto’s most eclectic neighbourhoods, it’s ideal for those who want to live independently, with the option to add what you need, when you want it. Think of it as chic city living without the ownership hassle. From casual dining opportunities and housekeeping to wellness services that support your independence and vitality, it’s à la carte and on your terms. And with 24/7 on-site staff and emergency response, peace of mind is built in effortlessly."
+    },
+    {
+      "id": 66,
+      "name": "Chartwell Valley Vista",
+      "city": "Vaughan",
+      "address": "600 Valley Vista Drive, Vaughan, ON L6A 4H2",
+      "phone": "289-963-9974",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "valley-vista",
+      "imageUrl": "https://dam.chartwell.com/asset/fedb9300-a4fa-4ebe-9c8e-1536969fcad5/Large_Generic_Hero_webp/valley-vista-exterior-03-crop.webp",
+      "tagline": "Rooted in Italian tradition, designed for vibrant retirement living in the heart of Vaughan.",
+      "description": "Chartwell Valley Vista is a welcoming independent living retirement residence nestled in a quiet, upscale neighbourhood in Vaughan. Deeply rooted in Italian family values, our residence is known for its close-knit community feel, where warmth, connection, and tradition flourish. Offering flexible care options and a wide range of valuable services, our vibrant seniors’ community is especially cherished by residents of Italian heritage seeking a lifestyle that feels both familiar and enriching."
+    },
+    {
+      "id": 67,
+      "name": "Chartwell Orchards",
+      "city": "Vineland",
+      "address": "3421 Frederick Avenue, Vineland, ON L0R 2C0",
+      "phone": "289-438-2543",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "orchards",
+      "imageUrl": "https://dam.chartwell.com/m/8b09c903f42f891/Large_Generic_Hero_webp-orchards-exterior-01.webp",
+      "tagline": "Enjoy a charming retirement lifestyle with personalized support that evolves with you, right in the heart of Niagara wine country.",
+      "description": "Chartwell Orchards is a reputable continuum of care retirement residence nestled in scenic Vineland, where small-town charm meets modern comfort. Set among lush orchards and now featuring beautiful new renovations, our welcoming community offers more than just a place to live—it’s a place to thrive. Here, you can enjoy peace of mind knowing support is available as your needs evolve, with independent living, assisted living, and memory care all under one roof. It’s retirement living designed to grow with you."
+    },
+    {
+      "id": 68,
+      "name": "Chartwell Clair Hills",
+      "city": "Waterloo",
+      "address": "530 Columbia Street West, Waterloo, ON N2T 0B1",
+      "phone": "226-336-6899",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "clair-hills",
+      "imageUrl": "https://dam.chartwell.com/m/11c1cb11dbc70338/Large_Generic_Hero_webp-clair-hills-exterior-03.webp",
+      "tagline": "Experience upscale, worry-free retirement living in Waterloo, thanks to flexible services personalized to your lifestyle.",
+      "description": "Chartwell Clair Hills is an upscale continuum of care retirement residence in the Laurelwood neighbourhood of Waterloo offering independent living and assisted living services in a refined setting that reflects all the comforts of home. Our established retirement community is known for its vibrant and energetic atmosphere, where you can comfortably age in place as your needs change over time. Here, elegant surroundings meet personalized service—so you can live confidently, comfortably, and completely on your own terms."
+    },
+    {
+      "id": 69,
+      "name": "Chartwell Terrace on the Square",
+      "city": "Waterloo",
+      "address": "100 Caroline Street South, Waterloo, ON N2L 1X5",
+      "phone": "226-336-8943",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "terrace-on-the-square",
+      "imageUrl": "https://dam.chartwell.com/m/263752a2d285a526/Large_Generic_Hero_webp-terrace-on-the-square-exterior-01-crop.webp",
+      "tagline": "Choose trusted retirement living in the heart of Uptown Waterloo.",
+      "description": "Chartwell Terrace on the Square is an independent living retirement residence in Uptown Waterloo, known for its trusted reputation and welcoming atmosphere. Our conveniently located retirement community provides a comforting atmosphere where you’ll feel at home, thanks to bright, easy-to-navigate spaces and warm, tenured staff who know you by name. Just look at our famous great room, which overlooks beautiful views of our greenspaces and gardens!"
+    },
+    {
+      "id": 70,
+      "name": "Chartwell Oak Park Terrace",
+      "city": "Windsor",
+      "address": "1750 N Service Rd, Windsor, ON N8W 1Y3",
+      "phone": "226-526-9691",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "oak-park-terrace",
+      "imageUrl": "https://dam.chartwell.com/m/4075c83ecb12b083/Large_Generic_Hero_webp-OakParkTerrace_exterior_entrance_01.webp",
+      "tagline": "Experience relaxed, single-level retirement living with cultural warmth in the heart of peaceful Windsor.",
+      "description": "Chartwell Oak Park Terrace is a charming, bungalow-style retirement residence centered on active and independent senior living. We welcome you to explore the convenience of our accessible single-level layout, where you’ll find both our cozy one- and two-bedroom suites and bright, open-concept amenities. In addition to a warm and lively social atmosphere, retiring with us means you’ll have the comfort of an all-inclusive style of living and the peace of mind of personalized care services delivered by dedicated, long-standing staff."
+    },
+    {
+      "id": 71,
+      "name": "Chartwell Oxford Gardens",
+      "city": "Woodstock",
+      "address": "423 Devonshire Avenue, Woodstock, ON N4S 0B2",
+      "phone": "226-242-0899",
+      "careTypes": [
+        "Independent Living",
+        "Assisted Living",
+        "Memory Care"
+      ],
+      "slug": "oxford-gardens",
+      "imageUrl": "https://dam.chartwell.com/m/4c8c890e425e634f/Large_Generic_Hero_webp-OxfordGardens_Exterior_01_rev.webp",
+      "tagline": "Welcome to vibrant, resort-style retirement living in a friendly and supportive community in Woodstock.",
+      "description": "Chartwell Oxford Gardens is a well-established independent living retirement residence with a trusted local reputation in the heart of Woodstock. Known for our vibrant and social atmosphere, we invite you to discover a lifestyle that blends independence with flexible support in a warm, welcoming setting. Choose from bright and spacious studio, one-, and two-bedroom suites—many featuring private balconies or walk-out patios designed for your comfort and enjoyment. We are well known for our strong community outreach and partnerships with senior centres in the area."
+    }
   ]
 }
