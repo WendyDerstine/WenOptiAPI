@@ -1,53 +1,62 @@
 # WenOptiAPI
 
-Shared demo API for Optimizely demo sites, hosted on Netlify Functions.
+Shared demo API for Optimizely demo sites, hosted on Netlify Functions. Each client gets its own function and data file.
 
 ## Endpoints
 
-### `GET /.netlify/functions/locations`
+---
 
-Returns location data for a given demo site.
+### `GET /.netlify/functions/chartwell-locations`
+
+Returns Chartwell retirement residence locations.
 
 **Parameters:**
 | Param | Required | Description |
 |---|---|---|
-| `site` | Yes | Demo site key (`chartwell`) |
-| `province` | No | Province filter for Chartwell (`ontario`) — defaults to `ontario` |
+| `province` | No | Province key (`ontario`) — defaults to `ontario` |
 | `city` | No | Filter by city name |
 | `care` | No | Filter by care type (e.g. `Memory Care`) |
 
 **Examples:**
 ```
 # All Ontario locations
-/.netlify/functions/locations?site=chartwell
+/.netlify/functions/chartwell-locations
 
 # Filter by city
-/.netlify/functions/locations?site=chartwell&city=Toronto
+/.netlify/functions/chartwell-locations?city=Toronto
 
 # Filter by care type
-/.netlify/functions/locations?site=chartwell&care=Memory+Care
+/.netlify/functions/chartwell-locations?care=Memory+Care
 ```
 
-**Response:**
-```json
-{
-  "site": "chartwell",
-  "total": 71,
-  "locations": [
-    {
-      "id": 1,
-      "name": "Chartwell Harwood",
-      "city": "Ajax",
-      "address": "240 Old Harwood Avenue, Ajax, ON L1T 0N2",
-      "phone": "289-608-8364",
-      "careTypes": ["Independent Living", "Assisted Living", "Memory Care"]
-    }
-  ]
-}
+---
+
+### `GET /.netlify/functions/builders-locations`
+
+Returns Builders FirstSource locations.
+
+**Parameters:**
+| Param | Required | Description |
+|---|---|---|
+| `zip` | No | Filter by exact ZIP code |
+| `facilityType` | No | Filter by facility type (e.g. `Lumber`) |
+
+**Examples:**
+```
+# All locations
+/.netlify/functions/builders-locations
+
+# Filter by ZIP
+/.netlify/functions/builders-locations?zip=86401
+
+# Filter by facility type
+/.netlify/functions/builders-locations?facilityType=Lumber
 ```
 
-## Adding new sites
+---
 
-1. Add a JSON data file under `data/`
-2. Add a handler branch in the relevant function (or create a new function)
+## Adding a new client
+
+1. Add a data file under `data/` (e.g. `data/newclient-locations.json`)
+2. Create a new function under `netlify/functions/` (e.g. `netlify/functions/newclient-locations.js`)
 3. Update this README
